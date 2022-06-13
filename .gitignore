@@ -1,0 +1,8 @@
+# Node artifact directory
+dist/
+logs/
+node_modules/
+
+# Node artifact files
+package-lock.json
+.env
